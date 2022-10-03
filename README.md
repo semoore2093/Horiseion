@@ -1,4 +1,7 @@
 # Horiseion
-HTML &amp; CSS Refactor for optimization and accesibillity
+ HTML &amp; CSS Refactor for optimization and accesibillity
 
-![Screenshot](assets/images/Horiseon-screen-shot.png)
+# Screenshot of Application
+![Screenshot](/Develop/assets/images/Horiseon-screen-shot.png)
+
+# Link to URL
